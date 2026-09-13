@@ -2,29 +2,27 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs at 12 AM UTC every day
     - cron: "0 0 * * *"
-  
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+
+# This line explicitly grants the action permission to push the SVG to your repo
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      # Updated to v4 to fix the Node.js warning
+      - uses: actions/checkout@v4
 
-      # Generates the snake
       - uses: Platane/snk@v3
         with:
-          # Your github user name
           github_user_name: PiyushMahapatra-del
-          # Output paths
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Push the SVG to an 'output' branch
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
