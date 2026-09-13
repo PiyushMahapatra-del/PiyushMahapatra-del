@@ -61,7 +61,7 @@ A true 'Jack of All Trades, Master of None'! When I'm not debugging algorithms o
 * ⚽ **Defending the Net:** Playing football as a Goalkeeper (previously represented Chandigarh in inter-school tournaments!).
 * 🖌️ **Designing:** Exploring color theory, digital branding, and creating visual identities (like my current project, *NVR BEEN BETTER*).
 
-[![Sponsor Me!](https://img.shields.io/badge/Sponsor_Me!-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white)](LINK_TO_YOUR_JOKE_FILE_HERE)
+[![Sponsor Me!](https://img.shields.io/badge/Sponsor_Me!-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/user-attachments/assets/f280e213-690d-44ca-8482-ddc13ca9fa33)
 [![Top Secret Project](https://img.shields.io/badge/Top_Secret_Project-000000?style=for-the-badge&logo=github&logoColor=white)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/mxva6l4bCSI?si=dcJQhdYC2_rUspEH))
 
 <details>
