@@ -6,9 +6,9 @@
 
 <br/><br/>
 
-**Wresting my outta Computer Science Engineering at NSUT but, ofcourseee U CAN'T C ME giving up cause that's exactly what Cena taught me ^^**
+**Wrestling my way outta Computer Science Engineering at NSUT but, ofcourseee U CAN'T C ME giving up cause that's exactly what Cena taught me ^^**
 
-Email Me 👉 ✉️ **[piyush.mahapatra.ug25@nsut.ac.in](mailto:piyush.mahapatra.ug25@nsut.ac.in)** for collaboration/project or anything else. 😊😊
+Feel free to Email Me 👉 ✉️ **[piyush.mahapatra.ug25@nsut.ac.in](mailto:piyush.mahapatra.ug25@nsut.ac.in)** for collaboration/project or discussing about ANIMEEE..!
 
 <br/>
 
@@ -26,7 +26,7 @@ Email Me 👉 ✉️ **[piyush.mahapatra.ug25@nsut.ac.in](mailto:piyush.mahapatr
 ---
 
 ### ⚡ Quick Stats & Bio
-- 🔭 **I’m currently working on:** NVR BEEN BETTER - a graphic designing project designing a visual identity (logo, brand board, etc.) for a pet-themed cafe.
+- 🔭 **I’m currently working on:** NVR BEEN BETTER - a graphic designing project: Designing a visual identity (logo, brand board, etc.) for a pet-themed cafe.
 - 🌱 **I’m currently learning:** DSA, Cyber Security.
 - 👯 **I’m looking to collaborate on:** Cyber Security themed projects (OSINT, Recon, VAPT, etc.), ML-based projects.  
 - 🤔 **I’m looking for help with:** NVR BEEN BETTER - I encourage visually appealing ideas for my project!
@@ -55,7 +55,7 @@ Email Me 👉 ✉️ **[piyush.mahapatra.ug25@nsut.ac.in](mailto:piyush.mahapatr
 * **TDS, NSUT (Member)**: DSA Department
 
 ## 🎨 Beyond Coding
-I believe in keeping the right brain as active as the left! When I'm not debugging algorithms or diving into CyberSec, you can find me:
+A true 'Jack of All Trades, Master of None'! When I'm not debugging algorithms or diving into CyberSec, you can find me:
 * 🎬 **Creating Content:** Running my YouTube channel, BPP2, and polishing my intermediate video editing skills by editing my MVs.
 * 🎤 **Writing Bars:** Performing as a lyrical rapper—a passion I've had since the 5th grade.
 * ⚽ **Defending the Net:** Playing football as a Goalkeeper (previously represented Chandigarh in inter-school tournaments!).
