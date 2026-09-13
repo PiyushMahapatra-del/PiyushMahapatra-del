@@ -61,6 +61,23 @@ I believe in keeping the right brain as active as the left! When I'm not debuggi
 * ⚽ **Defending the Net:** Playing football as a Goalkeeper (previously represented Chandigarh in inter-school tournaments!).
 * 🖌️ **Designing:** Exploring color theory, digital branding, and creating visual identities (like my current project, *NVR BEEN BETTER*).
 
+[![Sponsor Me!](https://img.shields.io/badge/Sponsor_Me!-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white)](LINK_TO_YOUR_JOKE_FILE_HERE)
+[![Top Secret Project](https://img.shields.io/badge/Top_Secret_Project-000000?style=for-the-badge&logo=github&logoColor=white)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/mxva6l4bCSI?si=dcJQhdYC2_rUspEH))
+
+<details>
+  <summary><b>🚨CLICK THIS 🚨</b></summary>
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <h3>I told you to click it, and you clicked- WHAT AM I, YOUR BOSS OR SMTH?</h3>
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://i.pinimg.com/736x/a8/c6/da/a8c6da34a253758cf4de8208452df7c1.jpg" width="200" />
+      </td>
+    </tr>
+  </table>
+</details>
+
 ---
 
 ## 🏆 GitHub Trophies
