@@ -97,6 +97,3 @@ A true 'Jack of All Trades, Master of None'! When I'm not debugging algorithms o
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PiyushMahapatra-del&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=PiyushMahapatra-del&icon=0&color=0)](https://visitcount.itsvg.in)
